@@ -1,0 +1,20 @@
+.navbar{
+    width: 100vw;
+    height:5vh;
+    background-color: #E1E0EA;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-head{
+    padding-left: 20px;
+}
+.head-text,.navbar-home,.navbar-fav{
+    font-size: 15px;
+    font-weight: bold;
+}
+.navbar-mini{
+    display: flex;
+    gap: 80px;
+    padding-right: 20px;
+}

@@ -1,0 +1,27 @@
+.movie-list{
+  display: flex;
+  flex-wrap: wrap;
+  gap:48px;
+  margin-top: 10px;
+  margin-left:35px;
+}
+.search-form{
+  display:flex;
+  gap:30px;
+  justify-content: center;
+  margin-top: 5%;
+  margin-bottom: 50px;
+}
+.search-button{
+  background-color:red;
+  border:2px solid beige;
+  color: white;
+}
+.search-input{
+  width: 30%;
+}
+.home {
+  min-height: 100vh;
+  width: 100%;
+  background-color: #e9eae0;
+}
